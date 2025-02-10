@@ -1,6 +1,6 @@
 # IB9JHO Group Project
 
-hello these are different changes.
+hello, these are aurash's changes
 
 This is a blank template for your group to implement your project in the IB9JHO environment.
 
